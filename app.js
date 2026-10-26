@@ -7,8 +7,7 @@ const names = [
     "Zachary", "Amelia", "Benjamin", "Chloe", "Daniel",
     "Elena", "Finn", "Grace", "Henry", "Isabella",
     "Jack", "Katherine", "Leo", "Mia", "Noah",
-    "Olivia", "Peter", "Ruby", "Sebastian", "Thea",
-    "Ulysses", "Violet", "Zoe",
+    "Olivia", "Peter", "Zoe",
 ];
 
 console.log(names.join("\n"));
